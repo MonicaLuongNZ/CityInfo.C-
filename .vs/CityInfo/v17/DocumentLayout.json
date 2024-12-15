@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\64273\\source\\repos\\CityInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|c:\\users\\64273\\source\\repos\\cityinfo\\cityinfo.api.monica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|solutionrelative:cityinfo.api.monica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|c:\\users\\64273\\source\\repos\\cityinfo\\cityinfo.api.monica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|solutionrelative:cityinfo.api.monica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|c:\\users\\64273\\source\\repos\\cityinfo\\cityinfo.api.monica\\cityinfo.api.monica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|solutionrelative:cityinfo.api.monica\\cityinfo.api.monica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|c:\\users\\64273\\source\\repos\\cityinfo\\cityinfo.api.monica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|solutionrelative:cityinfo.api.monica\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|c:\\users\\64273\\source\\repos\\cityinfo\\cityinfo.api.monica\\cityinfo.api.monica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{31C8128A-2CA1-4629-8ED1-10736BDA35E5}|CityInfo.API.Monica\\CityInfo.API.Monica.csproj|solutionrelative:cityinfo.api.monica\\cityinfo.api.monica.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\Program.cs",
+              "RelativeDocumentMoniker": "CityInfo.API.Monica\\Program.cs",
+              "ToolTip": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\Program.cs*",
+              "RelativeToolTip": "CityInfo.API.Monica\\Program.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:17:51.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\appsettings.json",
+              "RelativeDocumentMoniker": "CityInfo.API.Monica\\appsettings.json",
+              "ToolTip": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\appsettings.json",
+              "RelativeToolTip": "CityInfo.API.Monica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T20:15:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityInfo.API.Monica",
+              "DocumentMoniker": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "RelativeDocumentMoniker": "CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "ToolTip": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "RelativeToolTip": "CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T01:44:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityInfo.API.Monica",
+              "DocumentMoniker": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "RelativeDocumentMoniker": "CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "ToolTip": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "RelativeToolTip": "CityInfo.API.Monica\\CityInfo.API.Monica.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T01:49:45.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CityInfo.API.Monica\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\64273\\source\\repos\\CityInfo\\CityInfo.API.Monica\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CityInfo.API.Monica\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T01:47:04.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
